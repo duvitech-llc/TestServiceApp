@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyTestServiceApp</string>
+
+    <string name="notifying_service_controller">This service will update a status bar notification
+                  every 5 seconds for a minute</string>
+
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+
+    <string name="status_bar_notifications_icons_only">Icons only</string>
+    <string name="status_bar_notifications_icons_and_marquee">Icons and marquee</string>
+    <string name="status_bar_notifications_remote_views">Use remote views in balloon</string>
+    <string name="status_bar_notifications_defaults">Use default values where applicable</string>
+    <string name="status_bar_notifications_happy">:-)</string>
+    <string name="status_bar_notifications_ok">:-|</string>
+    <string name="status_bar_notifications_sad">:-(</string>
+    <string name="status_bar_notifications_happy_message">I am happy</string>
+    <string name="status_bar_notifications_ok_message">I am ok</string>
+    <string name="status_bar_notifications_sad_message">I am sad</string>
+    <string name="status_bar_notifications_clear">Clear notification</string>
+    <string name="status_bar_notifications_mood_title">Mood ring</string>
+    <string name="status_bar_notifications_default_sound">Sound</string>
+    <string name="status_bar_notifications_default_vibrate">Vibrate</string>
+    <string name="status_bar_notifications_default_all">All</string>
+
+</resources>
